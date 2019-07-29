@@ -1,5 +1,5 @@
 # macOS-env-Setup
-Configuraciones para mi mac
+
 
 ## Configurar Terminal
 
