@@ -10,27 +10,27 @@
 5. en el nuevo perfil darle un poco de transparecia, cambiar el numero de columnas a 127 y filas a 25.
 6. en el nuevo perfil silenciar completamente la campana, desmarcar que notifique en el tab.
 7. ejecutar lo siguiente:
-> ```bash
-> cd
-> curl -O https://github.com/macine/macOS-env-Setup/blob/master/.aliases
-> curl -O https://github.com/macine/macOS-env-Setup/blob/master/.bash_profile
-> ```
+```bash
+cd
+curl -O https://github.com/macine/macOS-env-Setup/blob/master/.aliases
+curl -O https://github.com/macine/macOS-env-Setup/blob/master/.bash_profile
+```
 
 ## Configurar vim
-> ```bash
-> mkdir -p ~/.vim/pack/tpope/start
-> cd ~/.vim/pack/tpope/start
-> git clone https://tpope.io/vim/sensible.git
-> ```
+```bash
+mkdir -p ~/.vim/pack/tpope/start
+cd ~/.vim/pack/tpope/start
+git clone https://tpope.io/vim/sensible.git
+```
 
 ## VS Code
 1. Instalar Visual Studio Code
 2. Instalar los siguiente paquetes:
-> - One Dark Pro
-> - Perl
-> - Remote Development
-> - TODO Highlight
-> - Todo Tree
+- One Dark Pro
+- Perl
+- Remote Development
+- TODO Highlight
+- Todo Tree
 3. Ir a configuración (⌘,) y luego presionar el boton "{}" en la esquina superior derecha, y luego pegar el siguiente código
 ```json
 {
