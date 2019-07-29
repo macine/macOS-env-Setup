@@ -16,3 +16,10 @@ curl -O https://github.com/macine/macOS-env-Setup/blob/master/.aliases
 curl -O https://github.com/macine/macOS-env-Setup/blob/master/.bash_profile
 ```
 
+## Configurar vim
+```
+mkdir -p ~/.vim/pack/tpope/start
+cd ~/.vim/pack/tpope/start
+git clone https://tpope.io/vim/sensible.git
+```
+
