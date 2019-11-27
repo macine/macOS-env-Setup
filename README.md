@@ -12,8 +12,8 @@
 7. ejecutar lo siguiente:
 ```bash
 cd
-curl -O https://github.com/macine/macOS-env-Setup/blob/master/.aliases
-curl -O https://github.com/macine/macOS-env-Setup/blob/master/.bash_profile
+curl -O https://raw.githubusercontent.com/macine/macOS-env-Setup/master/.aliases
+curl -O https://raw.githubusercontent.com/macine/macOS-env-Setup/master/.bash_profile
 ```
 
 ## Configurar vim
