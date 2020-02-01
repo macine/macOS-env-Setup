@@ -7,4 +7,5 @@ done;
 unset file;
 export CLICOLOR=1
 export PS1="\[\033[33m\]\u\[\033[m\]@\[\033[33m\]\h:\[\033[34m\]\w\[\033[m\]\$ "
+export BASH_SILENCE_DEPRECATION_WARNING=1
 
